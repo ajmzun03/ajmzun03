@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 ## Hola 👋 Soy Angel
 
 ---
@@ -36,5 +31,3 @@ Este es solo el inicio de un camino donde la pasión por la tecnología y el cre
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajmzun03&theme=radical&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-### Hola
-[!Most used languajes](https://raw.githubusercontent.com/ajmzun03/githu-stats-trasparent/output/generated/languajes.svg)
